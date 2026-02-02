@@ -5,3 +5,7 @@ h1{
 body{
     background-color: darkgray;
 }
+h2{
+    color: olive;
+    font-size: 20px;
+}
